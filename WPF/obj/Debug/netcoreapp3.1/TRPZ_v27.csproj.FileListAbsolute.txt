@@ -1,0 +1,17 @@
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.exe
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.deps.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.runtimeconfig.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.runtimeconfig.dev.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\bin\Debug\netcoreapp3.1\TRPZ_v27.pdb
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.csprojAssemblyReference.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27_MarkupCompile.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27_MarkupCompile.lref
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.g.resources
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.AssemblyInfoInputs.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.AssemblyInfo.cs
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\TRPZ_v27\obj\Debug\netcoreapp3.1\TRPZ_v27.pdb

@@ -1,0 +1,52 @@
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.exe
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.dll.config
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.deps.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.runtimeconfig.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.runtimeconfig.dev.json
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.pdb
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.csprojAssemblyReference.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF_MarkupCompile.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.g.resources
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.AssemblyInfoInputs.cache
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.AssemblyInfo.cs
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.csproj.CopyComplete
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.dll
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.pdb
+C:\Users\MykolaV\RiderProjects\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.exe
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.dll.config
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.deps.json
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.runtimeconfig.json
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.runtimeconfig.dev.json
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\WPF.pdb
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.csprojAssemblyReference.cache
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF_MarkupCompile.cache
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.g.resources
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.AssemblyInfoInputs.cache
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.AssemblyInfo.cs
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.csproj.CoreCompileInputs.cache
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.csproj.CopyComplete
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.dll
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.pdb
+C:\Users\ening\Downloads\Telegram Desktop\TRPZ\TRPZ_v27\WPF\obj\Debug\netcoreapp3.1\WPF.genruntimeconfig.cache

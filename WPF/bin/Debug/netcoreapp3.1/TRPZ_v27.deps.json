@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TRPZ_v27/1.0.0": {
+        "runtime": {
+          "TRPZ_v27.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRPZ_v27/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
